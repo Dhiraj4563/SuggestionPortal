@@ -1,0 +1,8 @@
+{
+  "name": "Janaseva - Civic Suggestion & Grievance Portal",
+  "description": "A bilingual civic platform for Nepali and English-speaking citizens to submit community suggestions, report local issues, and track progress.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
